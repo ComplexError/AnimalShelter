@@ -5,7 +5,7 @@ public class Main {
         AdoptableAnimal[] animals = new AdoptableAnimal[] {
                 new Cat("Billy", "He sucks", 200000),
                 new Cat("Not Billy", "Way better than billy", 2),
-                new GoldenRetriever("Jimbo", "Wow!", 200),
+                new JackRussellTerrier("Mr. Mister", "Feisty!", 0.2),
                 new Pitbull("Rough", "The best", 20)
         };
 
