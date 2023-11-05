@@ -16,11 +16,11 @@ public class Cat implements AdoptableAnimal {
 
     @Override
     public String getDescription() {
-        return description;
+        return this.description;
     }
 
     @Override
     public double getPrice() {
-        return price;
+        return this.price;
     }
 }
